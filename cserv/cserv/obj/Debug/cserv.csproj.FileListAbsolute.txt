@@ -1,0 +1,8 @@
+D:\cserv\cserv\cserv\bin\Debug\cserv.exe.config
+D:\cserv\cserv\cserv\bin\Debug\cserv.exe
+D:\cserv\cserv\cserv\bin\Debug\cserv.pdb
+D:\cserv\cserv\cserv\obj\Debug\cserv.csprojResolveAssemblyReference.cache
+D:\cserv\cserv\cserv\obj\Debug\cserv.ProjectInstaller.resources
+D:\cserv\cserv\cserv\obj\Debug\cserv.csproj.GenerateResource.Cache
+D:\cserv\cserv\cserv\obj\Debug\cserv.exe
+D:\cserv\cserv\cserv\obj\Debug\cserv.pdb
